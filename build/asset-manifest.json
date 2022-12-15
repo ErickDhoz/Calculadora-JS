@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ErickDhoz/Calculadora-JS.git/static/css/main.8aceb312.css",
+    "main.js": "/ErickDhoz/Calculadora-JS.git/static/js/main.53f186cd.js",
+    "index.html": "/ErickDhoz/Calculadora-JS.git/index.html",
+    "main.8aceb312.css.map": "/ErickDhoz/Calculadora-JS.git/static/css/main.8aceb312.css.map",
+    "main.53f186cd.js.map": "/ErickDhoz/Calculadora-JS.git/static/js/main.53f186cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aceb312.css",
+    "static/js/main.53f186cd.js"
+  ]
+}
